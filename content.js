@@ -1,5 +1,5 @@
 // Retrieve the hidden units from the localStorage
-var hiddenUnits = localStorage.getItem('magaHiddenUnits') ? JSON.parse(localStorage.getItem('magaHiddenUnits')) : []
+var hiddenUnits = localStorage.getItem('mmgaHiddenUnits') ? JSON.parse(localStorage.getItem('mmgaHiddenUnits')) : []
 
 function isVisible(innerText) {
     // Returns boolean value depending on existence of innerText in button
