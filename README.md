@@ -15,3 +15,4 @@
 
 - In the Moodle dashboard while using the "All My Units" section, you'll be able to toggle the visibility of units
 - Toggling can be done through the "Customise this page" mode
+- This also removes the copyright banner when you startup Moodle
