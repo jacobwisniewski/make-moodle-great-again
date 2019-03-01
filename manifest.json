@@ -1,0 +1,13 @@
+{
+	"manifest_version": 2,
+
+	"name": "Moodle Chrome Extension",
+	"version": "0.1.0",
+	"description": "Make Moodle Great Again",
+
+	"content_scripts": [{
+		"css": ["styles.css"],
+		"js": ["content.js"],
+		"matches": ["https://lms.monash.edu/my/", "https://lms.monash.edu/my/index.php"]
+	}]
+}
