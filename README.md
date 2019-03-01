@@ -8,7 +8,7 @@
 
 1. Within the Chrome address tab go to "chrome://extensions"
 2. Toggle "Developer mode" on (should be top right of the window)
-3. Click "Load unpacked" and select the folder with the extension files
+3. Click "Load unpacked" and select the folder with the extension files (download the .zip and unzip before you do this)
 4. Finished!
 
 ## Usuage
