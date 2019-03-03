@@ -63,7 +63,7 @@ var callback = function () {
 
                 }
                 // Save the modified hidden units list to local storage
-                localStorage.setItem("magaHiddenUnits", JSON.stringify(hiddenUnits));
+                localStorage.setItem("mmgaHiddenUnits", JSON.stringify(hiddenUnits));
             })
             // Attach button to unit
             unit.childNodes[1].childNodes[1].appendChild(button)
